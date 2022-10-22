@@ -24,6 +24,7 @@ which is not correct and it is the first one. besides, even if it were not in
 alphabet it is used as a character widely in writings. Thus, throwing away ends
 up in chaos. 
 the reason Hamza is a Persian letter comes from two origins:
+
 1. modern (/new) Persian, i.e. after Islam advent has borrowed a lot of words
 from Arabic; those words are not regarded as Arabic per se, but dealing with them
 are like Persian words; thus you can find them in Persian dictionaries. The same
@@ -32,3 +33,22 @@ you can find "criterion" or "Chaos" in English dictionary, for example. so to
 speak, those words have Hamza and absorbing, or borrowing, since Islam advent
 letters borrowed. That history is dispensable and eliminate it is wrong and actually
 nowadays, most scholars form different disciplines accept it. 
+
+2. It employed even in Persian words with none-Arabic roots for different reasons:
+sometimes likely for aesthetic reasons, sometimes for distinguish between different
+spoken letter which has just on sign in writting, like "ی" whih is both a vowel and
+a consonant; therefore, from many centuries ago to our times one could find the Farsi
+word of "پایین" in previous style and also "پائین". 
+
+3. more importantly, for the moment it is regarded as first letter of Persian alphabet
+by Academy of Persian Language and Literature, that is responsible for unifying and
+standardization of Persian writings. in any case, for any reason, if it would have been 
+neglected, nust be denied. Such a act, especially based on speculations, or unvalid 
+online resource could cause kinds of cultural damages. 
+
+## The letter "آ" is not Persian exclusively
+In the original map it was stated that, in addition to four letters گ چ پ ژ,
+Alef Madda or "آ" is used just in Persian; as the map in its wholeness refered
+to 
+
+
