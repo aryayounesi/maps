@@ -22,7 +22,10 @@ no scientific root but relies on unacceptable beliefs.
 in notes of original map it was stated that Hamza ء is not a Persian letter,
 which is not correct and it is the first one. besides, even if it were not in
 alphabet it is used as a character widely in writings. Thus, throwing away ends
-up in chaos. 
+up in chaos. the reference is BGN_Romanization_Guide_1964_persian_1958 but no
+matter if it has a reference or not, it is wrong and should be corrected for many
+reasons. 
+
 the reason Hamza is a Persian letter comes from two origins:
 
 1. modern (/new) Persian, i.e. after Islam advent has borrowed a lot of words
@@ -49,6 +52,26 @@ online resource could cause kinds of cultural damages.
 ## The letter "آ" is not Persian exclusively
 In the original map it was stated that, in addition to four letters گ چ پ ژ,
 Alef Madda or "آ" is used just in Persian; as the map in its wholeness refered
-to 
+to BGN_Romanization_Guide_1964_persian_1958, we could guess it was the origin, 
+although the statement in the map was vague and in the referee, i.e.
+BGN_Romanization_Guide_1964_persian_1958 I could not have find it.
+to summarize it, "آ" is from Arabic origin and in Arabic there are words that
+start with it, such as "آن" in Arabic wich means "second, moment". therefore, 
+the letter is in both Persian and Arabic.
+
+# Unicode of a certain letters
+these letters that should be dealing with care as far as Persian is engaged are
+letters: ک ی and their different shapes inside other letters. in the unicode,
+especially UTF-8, we have: ی with the unicode `U+0649`, and ي with unicode as
+`U+064A`; also, ک as `U+06A9` and ك `U+0643`. Iranian people just use the first
+shape of those.
+In Modern days, as Arabic countries and Iran and other countries with Persian, 
+or Persian speakers, advanced their keyboard layout and unicodes separately and 
+arbitrarily, or even due to spreading MS ISOs and keyboard layout, they have adopted  
+different styles. in this way, Persian people, especially in Iran use "ی" in all cases,  
+instead of the "ي" with two dots beneath it; and it is not in first layer of Persian 
+keyboard (I mean the keys without switches through *shift* or *ctr* or *compose* keys). 
+ In the other hand,in Arabic it is Alef Maghsura, which is totally different with
+ the "ي". 
 
 
