@@ -7,7 +7,22 @@ maps that has been changed already:
 
 ---
 
-below desciption is fron original repositoy.
+== Why this is important
+I am interested in this project for some reasons:
+a. First, and foremost, it could be used in accessibility
+Advancements for people with special needs, which is
+glorious and humanly.
+b. It could benefit cultural relationships between people,
+by making it easy for them to learn different languages with
+unfamiliar alphabet and letter, I myself had a big problem in
+learning Greek letters! 
+c. It could be used in different models of screen reading, or
+as a ad hoc tool when people haven't enough time to learn letters.
+I'm sure early developers had many different reasons in their mind
+and I am going to trust them with all.
+
+below desciption is fron original repositoy (unedited).
+
 = Interscript: Script conversion maps
 
 == Introduction
