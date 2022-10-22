@@ -59,7 +59,19 @@ to summarize it, "آ" is from Arabic origin and in Arabic there are words that
 start with it, such as "آن" in Arabic wich means "second, moment". therefore, 
 the letter is in both Persian and Arabic.
 
-# Unicode of a certain letters
+## Technical notes
+I am not old enough to remember DOS era, but in 2000s, when I started using
+computer, DOS OSs still had held their prestige and charizma over windows; thus,
+I remember that time, untill 2005 approximately, DOS and its related applications
+like, Zarnegar a word processor for Persian writing, was the first option. In many
+cases, its reason was that the hardware just could handle DOS or operators were
+accostumed to DOS. I even have worked with FreeDOS, thanks to Jim Hall.
+the reason I told you this is that, this history played a crucial role in Persian
+keyboard layout and Iranian people habits in writings on machines. these habits,
+never abondoned. therefore, following notes has historical roots.
+
+
+### Unicode of a certain letters
 these letters that should be dealing with care as far as Persian is engaged are
 letters: ک ی and their different shapes inside other letters. in the unicode,
 especially UTF-8, we have: ی with the unicode `U+0649`, and ي with unicode as
@@ -74,4 +86,7 @@ keyboard (I mean the keys without switches through *shift* or *ctr* or *compose*
  In the other hand,in Arabic it is Alef Maghsura, which is totally different with
  the "ي". 
 
+### The problem with Persian Fonts
+
+<sub>to be continued</sub>
 
