@@ -1,4 +1,4 @@
-# changes in Persian Map
+# Changes in Persian Map
 below you can find a few notes about changes and the reason for changes.
 
 ## outline
@@ -14,7 +14,7 @@ another root for controversies or different styles is movements who trying to
 distinguish themself from Arabic origin of letters and words; thinking in
 that way, a minority write persian in *wrong* way deliberately and on purpose,
 for example in social media it could be seen that, mostly, youngs write "حرص"
-as "حرس" on the basis that Persian language, for its part, has "just س".
+as "حرس" on the basis that Persian language, for its own, *has just "س"*.
 These acts could not and should not be regarded as serious because it has
 no scientific root but relies on unacceptable beliefs.
 
