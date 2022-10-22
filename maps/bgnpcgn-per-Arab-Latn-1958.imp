@@ -38,12 +38,18 @@ metadata {
     dialectical variation.
     The notes and special rules explain details of
     transliteration not stated in the tables.
-
+     
+     in addition for a list of Persian Alphabet, visual graphic aspects
+     of letters and standardization of it refere to Persian Writing Style
+     () published by Academy of Persian Language and Literature (APLL) which
+     is responsible for standardization:
+     https://apll.ir/wp-content/uploads/2018/10/D-1394.pdf
+  
+  
   notes:
     - |
       1)The Persian writing system, in its generally used form,
-      employs only the symbols found in Table I, and the alef maddeh
-      (آ) of Table II. The symbols in column 1 of Table II are
+      employs only the symbols found in Table I. The symbols in column 1 of Table II are
       traditional auxiliary symbols used by Persians only
       sporadically to indicate the exact reading of a given word.
       In the case of i, ū, ey and ow, a choice of symbology
@@ -75,11 +81,21 @@ metadata {
       a preceding k, z, s, or	g; that is,	kh represents khe, but
       k/h stands for kāf followed by he.
 
-    - 5) Hamzeh (ء)	is	not regarded as a letter of the Persian
-      alphabet, but as a diacritic mark, and as such is not
-      always expressed in actual writing. In fully pointed words,
-      however, it appears in several graphic forms, standing
-      alone or written in conjunction with alef, vav, or ye (the
+    - 5) Hamzeh (ء)	is regarded as a letter of the Persian
+      alphabet, the very first letter, which can takes different 
+      graphic forms, depends on where it occures in the word;
+      therefore it could be in these forms: ئـ ـئـ ئ ء أ إ  ؤ; 
+      a few example below are helpful. furthermore, the Persian
+      write this letter in a different ways in one specific word,
+      such as مسأله مسئله which both are one word, borrowed from 
+      Arabic but people write it in different ways. However,
+      academically speaking just one of them is correct, i.e. with أ,
+      but due to controversies on such matters there is a minority who
+      think both is correct. accordingly, both could be found in
+      formall writtings, especially in non-humanities.  
+      as well as, it usually used as a diacritic mark, and as such is not
+      always expressed in actual writing. It appears in several graphic forms,
+      standing alone or written in conjunction with alef,vav, or ye (the
       ye in this instance being undotted). All these forms are
       transliterated simply with the apostrophe in the form
       resembling a small raised figure 9 (’)	,e.g., جزء Joz’
@@ -219,13 +235,13 @@ stage {
     sub "\u063a\u0651", "gh" # غ
     sub "\u0641\u0651", "ff" # ف
     sub "\u0642\u0651", "qq" # ق
-    sub "\u0643\u0651", "kk" # ك
+    sub "\u06A9\u0651", "kk" # ک
     sub "\u0644\u0651", "ll" # ل
     sub "\u0645\u0651", "mm" # م
     sub "\u0646\u0651", "nn" # ن
     sub "\u0647\u0651", "hh" # ه
     sub "\u0648\u0651", "vv" # و
-    sub "\u064a\u0651", "yy" # ي
+    sub "\u0649\u0651", "yy" # ی
 
     sub "\u0659", "ê"
 
