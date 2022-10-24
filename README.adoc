@@ -22,7 +22,7 @@ as a ad hoc tool when people haven't enough time to learn letters.
 I'm sure early developers had many different reasons in their mind
 and I am going to trust them with all.
 
-below desciption is fron original repositoy (unedited).
+below desciption is from the original repositoy (unedited).
 
 = Interscript: Script conversion maps
 
