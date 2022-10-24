@@ -39,11 +39,11 @@ metadata {
     The notes and special rules explain details of
     transliteration not stated in the tables.
      
-     in addition for a list of Persian Alphabet, visual graphic aspects
-     of letters and standardization of it refere to Persian Writing Style
-     () published by Academy of Persian Language and Literature (APLL) which
-     is responsible for standardization:
-     https://apll.ir/wp-content/uploads/2018/10/D-1394.pdf
+    in addition for a list of Persian Alphabet, visual graphic aspects
+    of letters and standardization of it refere to Persian Writing Style
+    (Dasūr-e Khaţ-e Farsī) published by Academy of Persian Language and Literature (APLL) which
+    is responsible for standardization:
+    https://apll.ir/wp-content/uploads/2018/10/D-1394.pdf
   
   
   notes:
@@ -82,7 +82,7 @@ metadata {
       k/h stands for kāf followed by he.
 
     - 5) Hamzeh (ء)	is regarded as a letter of the Persian
-      alphabet, the very first letter, which can takes different 
+      alphabet, the very first letter, a consonant, which can takes different 
       graphic forms, depends on where it occures in the word;
       therefore it could be in these forms: ئـ ـئـ ئ ء أ إ  ؤ; 
       a few example below are helpful. furthermore, the Persian
@@ -177,7 +177,7 @@ tests {
   test "پَايِ آب", "Pā-ye Āb"
   test "جُويِ آس", "Jū-ye Ās"
   test "دَهَانِهٴ مَمبَر", "Dahāneh-ye Mambar"
-  test "سَلَسِيٴ بُذُرگ", "Salasī-ye Boz̄org"
+  test "سَلَسِيٴ بُزُرگ", "Salasī-ye Boz̄org"
   test "عَبداللَّه", "‘Abdollāh"
   test "ذُو الفَقَار", "Z̄ū ol Faqār"
   test "اللَّه آبَاد", "Allāhābād"
